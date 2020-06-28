@@ -1,0 +1,12 @@
+#chess {
+ margin:0,auto;
+ width:40em;
+ height:40em;
+ margin-bottom:40em;
+}
+.title {
+ display:block;
+}
+body {
+ background:#10499e;
+}
